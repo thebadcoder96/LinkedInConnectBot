@@ -26,10 +26,12 @@ You can install the **webdriver** for Chrome browser [here](https://chromedriver
 
 ### How to run 
 
-**Before runnning the code:** Please enter the LinkedIn email, password, pages to stop at, keywords to search (be sure to include 'Hiring' if you are jobseeking), the personalized message to run the program. I have commented the parts to fill in the *NoteBot.py* file. 
+**Before runnning the code:** Please enter the LinkedIn email, password, pages to stop at, keywords to search (be sure to include 'Hiring' if you are jobseeking), the personalized message to run the program. I have commented the parts to fill in the **NoteBot.py** file. 
 
 Run the *NoteBot.py* file on any Python IDE or Execute the following command on the terminal:
 ``` sh
 !python3 NoteBot.py 
 ```
-PLEASE DO NOT MISSUSE THIS CODE
+
+
+***PLEASE DO NOT MISSUSE THIS CODE***
