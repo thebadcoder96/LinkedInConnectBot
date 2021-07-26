@@ -21,7 +21,7 @@ You can install the **webdriver** for Chrome browser [here](https://chromedriver
 
 **NOTE :** 
 - If you are on **Mac**, you have to move the webdriver to ```/usr/local/bin``` folder (*Go -> Go to Folder* then paste the path) to run the code. 
-- If you are on PC, you can just put the webdriver's path in the line ```driver = webdriver.Chrome(INSERTPATHTOWEBDRIVER) ``` inside the *NoteBot.py* file.
+- If you are on PC, you can just put the webdriver's path in the line ```driver = webdriver.Chrome(INSERT_PATH_TO_WEBDRIVER) ``` inside the *NoteBot.py* file.
 
 
 ### How to run 
