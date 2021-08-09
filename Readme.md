@@ -1,6 +1,6 @@
 # LinkedIn Bot to Connect and Send Personalized Note
 
-This is a python bot made to search for people in the certain industries and connect with them inlcuding sending a personalized note.
+This is a python bot made to search for people in the certain industries and connect with them including sending a personalized note.
 
 ### Motivation
 Job search is a long a tidious process and its often not very rewarding. So, I decided to brush up some python and make a bot to autoconnect with people in similar industries as I was interested in to make some part of the process easier by using my skills.
