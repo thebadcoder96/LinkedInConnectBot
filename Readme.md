@@ -2,6 +2,8 @@
 
 This is a python bot made to search for people in the certain industries and connect with them including sending a personalized note.
 
+## PLEASE BEWARE: LinkedIn does not like bots. Using this might get your account suspended or banned so please use it with care
+
 ### Motivation
 Job search is a long a tidious process and its often not very rewarding. So, I decided to brush up some python and make a bot to autoconnect with people in similar industries as I was interested in to make some part of the process easier by using my skills.
 
